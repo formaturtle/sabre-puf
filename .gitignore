@@ -1,0 +1,37 @@
+# Large data files
+CRPs_1M.csv
+pc_side/CRPs_1M.csv
+results/evaluation_report.json
+
+# FPGA binaries
+*.bit
+*.xsa
+
+# Intermediate / scratch figures
+pc_side/figs_smoketest/
+pc_side/smoke_figs/
+pc_side/test_dispatch_figs/
+pc_side/preview_figs/
+
+# Temp files
+pc_side/figs_smoketest/attack_comparison_new.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+
+# Excel
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
