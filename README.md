@@ -92,10 +92,6 @@ Evaluated using simulator-based oracles that provide the stronger access these a
 | DNN-Mursi | 0.997 | 0.985 | 0.500 | 0.787 | 0.499 |
 | CMA-ES | 0.970 | — | — | — | 0.513 |
 
-<p align="center">
-  <img src="results/figures/attack_comparison.png" width="620" alt="Attack comparison across PUF variants"/>
-  <br><em>Fig. 9 — Attack comparison across PUF variants. SABRE remains near random guessing under all evaluated attacks.</em>
-</p>
 
 ### Component Ablation (Fig. 10)
 
